@@ -1,0 +1,48 @@
+h1 {
+	font-family: 'kino mt', serif;
+	color: silver;
+	font-weight: darker;
+	font-size: 55px;
+	font-style: normal;
+	font-variant: normal;
+	line-height: 28.4px;
+
+}
+
+
+h2 {
+	font-family: 'kino mt', serif;
+	color: white;
+	font-weight: darker;
+	font-size: 40px;
+}
+h3 {
+	font-family: 'kino mt', serif;
+	color: silver;
+	font-weight: darker;
+	font-size: 40px;
+
+}
+
+.blue-text {
+	color: blue;
+}
+
+body {
+	background-image: url('https://scontent-lht6-1.xx.fbcdn.net/v/t31.0-8/14310314_1100727986649149_8564465121800615505_o.jpg?oh=a8cae6af4834a091ba92b93cc609d3f1&oe=5904B37F');
+}
+	.centre-content {
+		width: 100%;
+		text-align: center;
+
+	}
+
+	li{
+		font-family: 'seravek extralight', serif;
+		color: white;
+		font-size: 25
+		px;
+	}
+	p{
+		color: silver;
+	}

@@ -1,0 +1,33 @@
+/* profile.css */
+html {
+  background-color: #f5f7f9;
+}
+
+.profile-pic{
+  max-width: 100%;
+}
+
+.profile-card{
+  background-color: silver;
+}
+
+h4 {
+  font-family: 'haettenschweiler' , serif,
+  color: black;
+}
+
+
+p {
+  font-family: 'eurostile', serif;
+  color: black;
+  font-size: 9px;
+   max-width: 100%;
+}
+
+.card-block{
+  font-size: 15px
+}
+
+.card-text{
+  font-size: 10px
+}
